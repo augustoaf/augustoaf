@@ -1,4 +1,1 @@
-Hi, I’m Augusto and here I usually upload code in Java, Python and .Net Core. All my codes are related to something that I'm learning (or already learned) for a quick reference.
-The main purpose is to validate a concept, they are non-production code and there is no intention to have a "state of the art" architecture.
-
-The repositories are related to Apps developed for IoT, Edge Computing and Data engineering, but you may find other kind of apps as well. A few of them were carefully considered distributed computing to achieve scalability.
+Hi, I’m Augusto and here is my source code portfolio related to Apps developed to validate a concept or deepening skills in certain areas (they are not production ready code). These apps are related to IoT / Edge Computing, Data engineering, AI and Heavy processing. A few of them were carefully considered for distributed computing to achieve scalability.
